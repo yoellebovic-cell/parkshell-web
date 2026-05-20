@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "ParkShell",
-  description: "Universal metered parking companion app"
+  description: "Universal parking companion"
 };
 
 export default function RootLayout({ children }) {
